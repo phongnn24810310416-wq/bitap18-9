@@ -1,0 +1,15 @@
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\bin\Debug\net10.0\bai6.exe
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\bin\Debug\net10.0\bai6.deps.json
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\bin\Debug\net10.0\bai6.runtimeconfig.json
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\bin\Debug\net10.0\bai6.dll
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\bin\Debug\net10.0\bai6.pdb
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\obj\Debug\net10.0\bai6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\obj\Debug\net10.0\bai6.AssemblyInfoInputs.cache
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\obj\Debug\net10.0\bai6.AssemblyInfo.cs
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\obj\Debug\net10.0\bai6.csproj.CoreCompileInputs.cache
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\obj\Debug\net10.0\bai6.dll
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\obj\Debug\net10.0\refint\bai6.dll
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\obj\Debug\net10.0\bai6.pdb
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\obj\Debug\net10.0\bai6.genruntimeconfig.cache
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\obj\Debug\net10.0\ref\bai6.dll
+C:\Users\anhva\Downloads\18092026NguyenNamPhong\bai6\bai6\obj\Debug\net10.0\bai6.csproj.Up2Date
